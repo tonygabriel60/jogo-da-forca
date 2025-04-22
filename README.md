@@ -47,3 +47,11 @@ Bem-vindo ao **Jogo da Forca**, um jogo simples e divertido desenvolvido com HTM
 ---
 
 ## Estrutura do Projeto
+
+- **index.html**: Arquivo principal que contém a estrutura do jogo.
+- **style.css**: Arquivo de estilização para a interface do jogo.
+- **script.js**: Arquivo que contém a lógica do jogo.
+
+Você pode acessar o jogo diretamente pelo link: [Jogar Jogo da Forca](https://tonygabriel60.github.io/jogo-da-forca/).
+
+**Nota**: As palavras utilizadas no jogo estão disponíveis no DevTools do navegador, dentro do código JavaScript.
